@@ -12,6 +12,7 @@
   See http://www.galasoft.ch/mvvm
 */
 
+using CommonServiceLocator;
 using GalaSoft.MvvmLight.Ioc;
 
 namespace WpfApp1.ViewModel
